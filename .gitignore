@@ -1,3 +1,5 @@
-## Gitignore
-*.log
+## Directories
 node_modules
+
+## Files
+*.log
